@@ -144,7 +144,7 @@ dot -Tpng good_mux.dot -o good_mux.png
 
 * Shows the gate-level mapping of the multiplexer after synthesis
 
-![Gate-Level Schematic](images/good_mux_schematic.png)
+![Image](https://github.com/user-attachments/assets/3682d54d-f5a6-4965-a52e-14d106a2ba74)
 
 > Both images help visualize the design behavior and hardware mapping.
 
