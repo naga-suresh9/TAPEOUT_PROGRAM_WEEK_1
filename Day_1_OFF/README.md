@@ -137,8 +137,7 @@ dot -Tpng good_mux.dot -o good_mux.png
 ### 7.1 🧪 GTKWave Output
 
 * Shows the waveform of `good_mux` simulation
-
-![GTKWave Waveform](images/gtkwave_good_mux.png)
+![Image](https://github.com/user-attachments/assets/f691661e-7a36-447b-ab13-15777912f177)
 
 ### 7.2 🏭 Yosys Gate-Level Schematic
 
