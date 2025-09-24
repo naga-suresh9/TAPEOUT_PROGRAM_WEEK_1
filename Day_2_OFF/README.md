@@ -61,7 +61,7 @@ gedit sky130_fd_sc_hd__tt_025C_1v80.lib
 * 🧰 Sometimes requires extra setup for accurate timing across modules
 
 📷 **Screenshot 2: Hierarchical Synthesis Output**
-![🗂 Hierarchical Synthesis Output](images/hierarchical_synth.png)
+![Image](https://github.com/user-attachments/assets/49430d88-1ca7-44f7-a0cf-e3c528e5a138)
 
 ### 🛠 Flattened Synthesis
 
