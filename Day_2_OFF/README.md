@@ -81,8 +81,8 @@ gedit sky130_fd_sc_hd__tt_025C_1v80.lib
 * 💾 Larger memory footprint
 
 📷 **Screenshot 3: Flattened Synthesis Output**
-![🛠 Flattened Synthesis Output](images/flattened_synth.png)
-
+![🛠 Flattened Synthesis Output]
+![Image](https://github.com/user-attachments/assets/897e0427-f55d-4759-ab2f-4eb4c57c9f80)
 | 📝 Feature            | 🗂 Hierarchical | 🛠 Flattened  |
 | --------------------- | --------------- | ------------- |
 | 🏗 Structure kept?    | ✅ Yes           | ❌ No          |
