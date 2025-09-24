@@ -37,7 +37,7 @@ gedit sky130_fd_sc_hd__tt_025C_1v80.lib
 ````
 
 📷 **Screenshot 1: Opening the SKY130 `.lib` file**
-![📂 Opening .lib file](images/sky130_lib_file.png)
+![Image](https://github.com/user-attachments/assets/73c76740-61cb-4558-9e5d-6dc5d737e92e)
 
 ---
 
