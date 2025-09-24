@@ -157,7 +157,8 @@ gtkwave tb_dff_async_reset.vcd
 ```
 
 📷 **Screenshot 4: GTKWave Waveform Screenshot**
-![📈 GTKWave Waveform Screenshot](images/gtkwave_waveform.png)
+![📈 GTKWave Waveform Screenshot]
+![Image](https://github.com/user-attachments/assets/d9eec4c5-04d6-430b-af3f-e8a8077c1a6f)
 
 ### 🧠 Yosys (Synthesizer)
 
