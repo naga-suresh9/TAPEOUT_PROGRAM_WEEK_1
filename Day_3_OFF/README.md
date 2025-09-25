@@ -130,7 +130,7 @@ endmodule
 
 🧠 *If `a` is high → always output `1`; else → follow `b`.*
 🎯 This prioritizes logic high — synthesis may replace it with a fixed signal under the right conditions.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0aad6807-bd7a-4dfb-a11d-fee97f96155e" />
 ---
 
 ### 👨‍💻 Lab 3: **Cloning Exploration**
