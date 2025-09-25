@@ -143,7 +143,7 @@ endmodule
 
 🧪 *Same as Lab 2 — use to test how synthesis tools handle repeated logic.*
 🎯 Are they cloned? Shared? Analyzed separately? This lab helps you find out.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7687d4aa-ea0b-4290-9f89-cf7004830254" />
 ---
 
 ### 👨‍💻 Lab 4: **Nested Logic Cleanup**
