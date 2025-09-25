@@ -117,7 +117,7 @@ endmodule
 
 🧠 *If `a` is 1 → `y = b`; else → `y = 0`.*
 🎯 Optimization: Can flatten to `assign y = b;` if `a` is constant. Eliminates MUX.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/875d712e-d412-470e-91fc-2e78e479c49e" />
 ---
 
 ### 👨‍💻 Lab 2: **Override to High**
