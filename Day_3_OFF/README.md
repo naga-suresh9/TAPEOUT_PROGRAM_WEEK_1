@@ -161,7 +161,7 @@ assign y = a ? c : !c;
 ```
 
 🎯 Remove layered conditions; save logic gates!
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c80139e4-4bab-4164-8672-65aaab0b2728" />
 ---
 
 ### 👨‍💻 Lab 5: **Flip-Flop with Init Logic**
