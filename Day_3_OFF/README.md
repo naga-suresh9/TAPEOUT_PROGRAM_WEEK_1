@@ -180,7 +180,7 @@ endmodule
 
 📌 *Starts at 0, then becomes and stays 1.*
 🎯 Some tools may optimize this into a tied high — especially if `q` is not used sequentially.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9dc5b809-c8d8-4472-abe2-dfac09b21f40" />
 ---
 
 ### 👨‍💻 Lab 6: **Flip-Flop That Does Nothing**
