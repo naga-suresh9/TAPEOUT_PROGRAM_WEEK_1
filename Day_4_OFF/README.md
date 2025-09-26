@@ -156,7 +156,7 @@ always @(*) begin
     y = i0;
 end
 ```
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/baf1b385-f21c-4d3f-98df-576c6c92a9ef" />
 ---
 
 ### Lab 5: GLS on Bad MUX
