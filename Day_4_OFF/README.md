@@ -193,7 +193,7 @@ end
 ### Lab 7: Synthesis of Corrected Module
 
 * Synthesize and verify expected results.
-
+![Image](https://github.com/user-attachments/assets/d9d9653f-e1cc-44e9-b2d4-91b2ed8023b8)
 ---
 
 ## 5. 📌 Summary & Pro Tips
