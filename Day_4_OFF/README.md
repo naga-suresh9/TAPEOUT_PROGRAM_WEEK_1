@@ -113,7 +113,7 @@ endmodule
 ```
 
 * Output `y` = `i1` if `sel`=1, else `i0`.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/29cee5fa-a149-4b93-b64e-878a936c6612" />
 ---
 
 ### Lab 2: Synthesize MUX with Yosys
