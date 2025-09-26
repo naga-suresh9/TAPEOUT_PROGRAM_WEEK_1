@@ -119,7 +119,7 @@ endmodule
 ### Lab 2: Synthesize MUX with Yosys
 
 * Run standard synthesis flow to generate gate-level netlist.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/95b8bedc-eafd-4b75-9e0f-10bc74f9f06d" />
 ---
 
 ### Lab 3: Gate-Level Simulation of MUX
