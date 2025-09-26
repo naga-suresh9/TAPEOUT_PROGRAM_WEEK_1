@@ -125,7 +125,7 @@ endmodule
 ### Lab 3: Gate-Level Simulation of MUX
 
 * Use Icarus Verilog + cell libraries + testbench for GLS.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/db1eea65-dd58-4b69-b5a6-11511649c612" />
 ---
 
 ### Lab 4: Bad MUX — Common Mistakes 🚩
