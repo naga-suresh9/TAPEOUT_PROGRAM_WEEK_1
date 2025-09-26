@@ -162,7 +162,7 @@ end
 ### Lab 5: GLS on Bad MUX
 
 * Expect warnings & mismatches. Great debugging practice!
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7d389dba-7bdd-4742-8c3b-8315f64b7eda" />
 ---
 
 ### Lab 6: Blocking Assignment Order Caveat ⚠️
