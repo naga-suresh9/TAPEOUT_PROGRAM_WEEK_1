@@ -187,7 +187,7 @@ always @(*) begin
   d = x & c;
 end
 ```
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/794dc07d-10a9-437a-b071-05ff55275412" />
 ---
 
 ### Lab 7: Synthesis of Corrected Module
