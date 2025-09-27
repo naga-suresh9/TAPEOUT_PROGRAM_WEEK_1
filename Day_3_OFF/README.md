@@ -193,7 +193,7 @@ begin
 end
 endmodule
 ```
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5f9e6a5f-9c03-42f6-9350-44c904e160c9" />
 📌 *No matter what, `q` is always 1.*
 🎯 Useless as a register — optimized out and replaced with a constant.
 
